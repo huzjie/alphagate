@@ -1,0 +1,15 @@
+# 配置思路卡：风险平价
+slug: risk_parity
+name: 风险平价
+rationale: "跨资产风险预算平衡，降低单一资产集中度与组合波动"
+applicable_regimes:
+  - sideways
+  - high_volatility
+keywords:
+  - risk_parity
+  - 风险平价
+  - 分散
+  - 风险预算
+default_weight: 0.1
+risk_level: low
+source: Alpha-R1 semantic gating

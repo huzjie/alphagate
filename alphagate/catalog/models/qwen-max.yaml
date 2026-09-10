@@ -1,0 +1,12 @@
+# 模型卡：Qwen-Max
+slug: qwen-max
+name: Qwen-Max
+model_id: Qwen/Qwen-Max
+size: 未知
+description: "通义旗舰推理"
+vendor: 阿里通义
+url: https://huggingface.co/Qwen
+license: Apache-2.0
+tags:
+  - general
+  - reasoning

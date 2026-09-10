@@ -1,0 +1,15 @@
+# 模型卡：Alpha-R1
+slug: alpha-r1
+name: Alpha-R1
+model_id: FinStep-AI/Alpha-R1
+size: 8B
+description: "金融推理（语义门控 + 两阶段 RL）"
+vendor: 财跃星辰 x 上海交大安泰
+url: https://huggingface.co/FinStep-AI/Alpha-R1
+license: Apache-2.0
+tags:
+  - value
+  - momentum
+  - quality
+  - semantic_gating
+  - two_stage_rl

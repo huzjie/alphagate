@@ -1,0 +1,15 @@
+# 配置思路卡：行业轮动
+slug: industry_rotation
+name: 行业轮动
+rationale: "经济周期不同阶段行业景气轮动，把握强势行业切换带来的结构收益"
+applicable_regimes:
+  - bull
+  - sideways
+keywords:
+  - industry_rotation
+  - 行业轮动
+  - 景气
+  - 结构行情
+default_weight: 0.12
+risk_level: medium
+source: Alpha-R1 semantic gating

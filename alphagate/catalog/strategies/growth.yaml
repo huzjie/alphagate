@@ -1,0 +1,15 @@
+# 配置思路卡：成长
+slug: growth
+name: 成长
+rationale: "高成长赛道在流动性宽松、风险偏好抬升时获得估值溢价"
+applicable_regimes:
+  - bull
+  - liquidity_driven
+keywords:
+  - growth
+  - 成长
+  - 高增速
+  - 估值溢价
+default_weight: 0.15
+risk_level: high
+source: Alpha-R1 semantic gating

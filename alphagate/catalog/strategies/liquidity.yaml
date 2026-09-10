@@ -1,0 +1,15 @@
+# 配置思路卡：流动性
+slug: liquidity
+name: 流动性
+rationale: "流动性极度宽松时资金面主导，利好高贝塔与估值扩张资产"
+applicable_regimes:
+  - liquidity_driven
+  - bull
+keywords:
+  - liquidity
+  - 流动性
+  - 资金面
+  - 宽松
+default_weight: 0.1
+risk_level: high
+source: Alpha-R1 semantic gating

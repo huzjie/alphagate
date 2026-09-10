@@ -1,0 +1,15 @@
+# 配置思路卡：小盘
+slug: size
+name: 小盘
+rationale: "流动性宽松与风险偏好抬升阶段小盘股弹性更大"
+applicable_regimes:
+  - liquidity_driven
+  - bull
+keywords:
+  - size
+  - 小盘
+  - 弹性
+  - 中小市值
+default_weight: 0.08
+risk_level: high
+source: Alpha-R1 semantic gating

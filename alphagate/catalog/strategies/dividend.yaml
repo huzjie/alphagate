@@ -1,0 +1,16 @@
+# 配置思路卡：红利
+slug: dividend
+name: 红利
+rationale: "高股息资产提供稳定现金流，在利率下行与避险时吸引力上升"
+applicable_regimes:
+  - bear
+  - risk_off
+  - sideways
+keywords:
+  - dividend
+  - 红利
+  - 高股息
+  - 现金流
+default_weight: 0.12
+risk_level: low
+source: Alpha-R1 semantic gating

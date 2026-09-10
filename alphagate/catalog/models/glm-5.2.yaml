@@ -1,0 +1,12 @@
+# 模型卡：GLM-5.2
+slug: glm-5.2
+name: GLM-5.2
+model_id: zai-org/GLM-5.2
+size: 未知
+description: "多模态通用底座备选"
+vendor: 智谱 AI
+url: https://huggingface.co/zai-org
+license: MIT
+tags:
+  - general
+  - multimodal

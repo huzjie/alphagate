@@ -1,0 +1,14 @@
+# 配置思路卡：动量
+slug: momentum
+name: 动量
+rationale: "趋势延续时顺势加仓强势板块，动量因子在单边行情收益显著"
+applicable_regimes:
+  - bull
+keywords:
+  - momentum
+  - trend
+  - 强势
+  - 趋势延续
+default_weight: 0.2
+risk_level: high
+source: Alpha-R1 semantic gating

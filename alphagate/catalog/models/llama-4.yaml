@@ -1,0 +1,12 @@
+# 模型卡：Llama-4
+slug: llama-4
+name: Llama-4
+model_id: meta-llama/Llama-4
+size: 未知
+description: "开源通用底座"
+vendor: Meta
+url: https://huggingface.co/meta-llama
+license: Llama
+tags:
+  - general
+  - open_source

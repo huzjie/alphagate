@@ -1,0 +1,13 @@
+# 模型卡：Alpha-R1-Lite
+slug: alpha-r1-lite
+name: Alpha-R1-Lite
+model_id: FinStep-AI/Alpha-R1
+size: 4B
+description: "金融推理轻量版（端侧部署）"
+vendor: 财跃星辰 x 上海交大安泰
+url: https://huggingface.co/FinStep-AI/Alpha-R1
+license: Apache-2.0
+tags:
+  - semantic_gating
+  - on_device
+  - quantized

@@ -1,0 +1,17 @@
+# 配置思路卡：技术面
+slug: technical
+name: 技术面
+rationale: "量价、均线、形态等技术信号择时，捕捉短期趋势与拐点"
+applicable_regimes:
+  - bull
+  - bear
+  - high_volatility
+keywords:
+  - technical
+  - 技术面
+  - 量价
+  - 均线
+  - 择时
+default_weight: 0.08
+risk_level: high
+source: Alpha-R1 semantic gating

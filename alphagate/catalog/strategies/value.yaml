@@ -1,0 +1,16 @@
+# 配置思路卡：价值
+slug: value
+name: 价值
+rationale: "低估值资产在均值回归与估值修复时提供安全边际，适合震荡与复苏期"
+applicable_regimes:
+  - sideways
+  - bear
+keywords:
+  - value
+  - low_valuation
+  - pe
+  - pb
+  - 安全边际
+default_weight: 0.18
+risk_level: medium
+source: Alpha-R1 semantic gating

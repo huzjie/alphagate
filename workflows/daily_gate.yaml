@@ -1,0 +1,16 @@
+# 工作流：每日语义门控决策
+name: daily_gate
+description: "每日语义门控决策"
+schedule: daily
+steps:
+  - name: fetch
+    tool: MarketDataHub.get_prices
+  - name: regime
+    tool: RegimeBuilder.build
+  - name: gate
+    tool: SemanticGate.decide
+  - name: export
+    tool: Exporter.to_json
+output:
+  format: json
+  path: reports/daily_gate.json

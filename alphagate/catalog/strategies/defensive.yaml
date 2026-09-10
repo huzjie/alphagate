@@ -1,0 +1,16 @@
+# 配置思路卡：防御
+slug: defensive
+name: 防御
+rationale: "高波动或衰退环境降低仓位、增配债券与现金等价物"
+applicable_regimes:
+  - high_volatility
+  - risk_off
+  - bear
+keywords:
+  - defensive
+  - 防御
+  - 降仓
+  - 债券
+default_weight: 0.15
+risk_level: low
+source: Alpha-R1 semantic gating

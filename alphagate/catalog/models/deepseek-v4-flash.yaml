@@ -1,0 +1,13 @@
+# 模型卡：DeepSeek-V4-Flash
+slug: deepseek-v4-flash
+name: DeepSeek-V4-Flash
+model_id: deepseek-ai/DeepSeek-V4-Flash
+size: 671B
+description: "旗舰通用推理（可作外部裁判）"
+vendor: DeepSeek
+url: https://huggingface.co/deepseek-ai
+license: MIT
+tags:
+  - general
+  - reasoning
+  - judge

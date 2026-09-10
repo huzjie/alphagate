@@ -1,0 +1,16 @@
+# 工作流：每周组合再平衡
+name: weekly_rebalance
+description: "每周组合再平衡"
+schedule: daily
+steps:
+  - name: fetch
+    tool: MarketDataHub.get_prices
+  - name: regime
+    tool: RegimeBuilder.build
+  - name: gate
+    tool: SemanticGate.decide
+  - name: export
+    tool: Exporter.to_json
+output:
+  format: json
+  path: reports/weekly_rebalance.json

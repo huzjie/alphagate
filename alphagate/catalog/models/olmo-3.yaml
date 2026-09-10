@@ -1,0 +1,12 @@
+# 模型卡：Olmo-3
+slug: olmo-3
+name: Olmo-3
+model_id: allenai/Olmo-3
+size: 未知
+description: "完全开放训练数据"
+vendor: AI2
+url: https://huggingface.co/allenai
+license: Apache-2.0
+tags:
+  - open_source
+  - transparent

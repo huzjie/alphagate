@@ -1,0 +1,12 @@
+# 模型卡：Kimi-K2.6
+slug: kimi-k26
+name: Kimi-K2.6
+model_id: moonshotai/Kimi-K2.6
+size: 未知
+description: "长上下文推理"
+vendor: 月之暗面
+url: https://huggingface.co/moonshotai
+license: MIT
+tags:
+  - long_context
+  - reasoning

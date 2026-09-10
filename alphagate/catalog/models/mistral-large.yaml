@@ -1,0 +1,12 @@
+# 模型卡：Mistral-Large
+slug: mistral-large
+name: Mistral-Large
+model_id: mistralai/Mistral-Large
+size: 未知
+description: "欧洲开源旗舰"
+vendor: Mistral
+url: https://huggingface.co/mistralai
+license: Apache-2.0
+tags:
+  - general
+  - open_source

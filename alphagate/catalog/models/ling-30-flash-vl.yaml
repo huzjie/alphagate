@@ -1,0 +1,12 @@
+# 模型卡：Ling-3.0-flash-VL
+slug: ling-30-flash-vl
+name: Ling-3.0-flash-VL
+model_id: Ant-Group/Ling-3.0-flash-VL
+size: 124B
+description: "原生多模态（参考）"
+vendor: 蚂蚁百灵
+url: https://huggingface.co/Ant-Group
+license: Apache-2.0
+tags:
+  - multimodal
+  - vlm

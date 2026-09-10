@@ -1,0 +1,16 @@
+# 工作流：每月绩效报告
+name: monthly_report
+description: "每月绩效报告"
+schedule: daily
+steps:
+  - name: fetch
+    tool: MarketDataHub.get_prices
+  - name: regime
+    tool: RegimeBuilder.build
+  - name: gate
+    tool: SemanticGate.decide
+  - name: export
+    tool: Exporter.to_json
+output:
+  format: json
+  path: reports/monthly_report.json

@@ -1,0 +1,16 @@
+# 配置思路卡：情绪面
+slug: sentiment
+name: 情绪面
+rationale: "市场情绪指标（换手、涨跌比、波动率）驱动的顺势或逆向操作"
+applicable_regimes:
+  - high_volatility
+  - bear
+keywords:
+  - sentiment
+  - 情绪
+  - 换手
+  - 涨跌比
+  - 逆向
+default_weight: 0.08
+risk_level: high
+source: Alpha-R1 semantic gating

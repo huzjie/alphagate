@@ -1,0 +1,12 @@
+# 模型卡：Ernie-5
+slug: ernie-5
+name: Ernie-5
+model_id: baidu/Ernie-5
+size: 未知
+description: "文心旗舰"
+vendor: 百度
+url: https://huggingface.co/baidu
+license: Proprietary
+tags:
+  - general
+  - chinese

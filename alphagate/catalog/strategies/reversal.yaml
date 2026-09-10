@@ -1,0 +1,15 @@
+# 配置思路卡：反转
+slug: reversal
+name: 反转
+rationale: "超跌资产在情绪修复时均值回归，逆向布局错杀标的"
+applicable_regimes:
+  - bear
+  - high_volatility
+keywords:
+  - reversal
+  - 超跌
+  - 均值回归
+  - 逆向
+default_weight: 0.08
+risk_level: high
+source: Alpha-R1 semantic gating

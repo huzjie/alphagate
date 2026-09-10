@@ -1,0 +1,12 @@
+# 模型卡：Claude-5
+slug: claude-5
+name: Claude-5
+model_id: anthropic/claude-5
+size: 未知
+description: "闭源推理（外部裁判备选）"
+vendor: Anthropic
+url: https://anthropic.com
+license: Proprietary
+tags:
+  - general
+  - reasoning

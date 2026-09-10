@@ -1,0 +1,12 @@
+# 模型卡：Qwen-Drive-1.0-4B
+slug: qwen-drive-1.0-4b
+name: Qwen-Drive-1.0-4B
+model_id: Qwen/Qwen-Drive-1.0-4B
+size: 4B
+description: "自动驾驶 VLM（参考）"
+vendor: 阿里千问
+url: https://huggingface.co/Qwen
+license: Apache-2.0
+tags:
+  - autonomous_driving
+  - vlm

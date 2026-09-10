@@ -1,0 +1,16 @@
+# 配置思路卡：事件驱动
+slug: event_driven
+name: 事件驱动
+rationale: "并购重组、财报、政策等事件催化的短期超额收益"
+applicable_regimes:
+  - bull
+  - liquidity_driven
+keywords:
+  - event
+  - 事件驱动
+  - 并购
+  - 政策
+  - 财报
+default_weight: 0.06
+risk_level: high
+source: Alpha-R1 semantic gating

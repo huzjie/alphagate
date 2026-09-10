@@ -1,0 +1,14 @@
+# 配置思路卡：低波
+slug: low_volatility
+name: 低波
+rationale: "低波动资产在不确定环境下下行保护更好，风险调整后收益更优"
+applicable_regimes:
+  - high_volatility
+  - risk_off
+keywords:
+  - low_volatility
+  - 低波
+  - 下行保护
+default_weight: 0.12
+risk_level: low
+source: Alpha-R1 semantic gating

@@ -1,0 +1,16 @@
+# 工作流：财经新闻摘要
+name: news_digest
+description: "财经新闻摘要"
+schedule: daily
+steps:
+  - name: fetch
+    tool: MarketDataHub.get_prices
+  - name: regime
+    tool: RegimeBuilder.build
+  - name: gate
+    tool: SemanticGate.decide
+  - name: export
+    tool: Exporter.to_json
+output:
+  format: json
+  path: reports/news_digest.json

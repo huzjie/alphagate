@@ -1,0 +1,16 @@
+# 工作流：风控偏离告警
+name: risk_alert
+description: "风控偏离告警"
+schedule: daily
+steps:
+  - name: fetch
+    tool: MarketDataHub.get_prices
+  - name: regime
+    tool: RegimeBuilder.build
+  - name: gate
+    tool: SemanticGate.decide
+  - name: export
+    tool: Exporter.to_json
+output:
+  format: json
+  path: reports/risk_alert.json

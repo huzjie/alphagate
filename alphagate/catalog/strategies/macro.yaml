@@ -1,0 +1,17 @@
+# 配置思路卡：宏观
+slug: macro
+name: 宏观
+rationale: "利率、通胀、增长等宏观变量驱动的自上而下大类资产配置"
+applicable_regimes:
+  - sideways
+  - bear
+  - risk_off
+keywords:
+  - macro
+  - 宏观
+  - 利率
+  - 通胀
+  - 大类资产
+default_weight: 0.12
+risk_level: medium
+source: Alpha-R1 semantic gating

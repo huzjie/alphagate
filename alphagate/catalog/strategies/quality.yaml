@@ -1,0 +1,15 @@
+# 配置思路卡：质量
+slug: quality
+name: 质量
+rationale: "盈利质量稳定、ROE 持续的公司能穿越周期，抗跌且长期复利"
+applicable_regimes:
+  - bull
+  - sideways
+keywords:
+  - quality
+  - roe
+  - 盈利质量
+  - 穿越周期
+default_weight: 0.18
+risk_level: low
+source: Alpha-R1 semantic gating

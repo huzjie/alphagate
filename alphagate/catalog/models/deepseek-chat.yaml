@@ -1,0 +1,12 @@
+# 模型卡：DeepSeek-Chat
+slug: deepseek-chat
+name: DeepSeek-Chat
+model_id: deepseek-ai/DeepSeek-Chat
+size: 671B
+description: "深度思考旗舰"
+vendor: DeepSeek
+url: https://huggingface.co/deepseek-ai
+license: MIT
+tags:
+  - general
+  - reasoning

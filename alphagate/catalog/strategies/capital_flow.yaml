@@ -1,0 +1,16 @@
+# 配置思路卡：资金流
+slug: capital_flow
+name: 资金流
+rationale: "跟踪北向、主力资金流向，跟随聪明钱布局"
+applicable_regimes:
+  - bull
+  - liquidity_driven
+keywords:
+  - capital_flow
+  - 资金流
+  - 北向
+  - 主力
+  - 聪明钱
+default_weight: 0.08
+risk_level: medium
+source: Alpha-R1 semantic gating

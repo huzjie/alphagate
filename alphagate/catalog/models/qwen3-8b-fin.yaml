@@ -1,0 +1,12 @@
+# 模型卡：Qwen3-8B-Fin
+slug: qwen3-8b-fin
+name: Qwen3-8B-Fin
+model_id: Qwen/Qwen3-8B
+size: 8B
+description: "通用底座金融微调备选"
+vendor: 阿里通义
+url: https://huggingface.co/Qwen/Qwen3-8B
+license: Apache-2.0
+tags:
+  - general
+  - finance_finetune

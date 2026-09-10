@@ -1,0 +1,12 @@
+# 模型卡：Phi-4
+slug: phi-4
+name: Phi-4
+model_id: microsoft/Phi-4
+size: 14B
+description: "小模型高性能"
+vendor: Microsoft
+url: https://huggingface.co/microsoft
+license: MIT
+tags:
+  - small
+  - efficient

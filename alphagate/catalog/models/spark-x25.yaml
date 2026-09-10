@@ -1,0 +1,12 @@
+# 模型卡：Spark-X2.5
+slug: spark-x25
+name: Spark-X2.5
+model_id: iflytek/Spark-X2.5
+size: 4B
+description: "百万上下文端侧"
+vendor: 科大讯飞
+url: https://huggingface.co/iflytek
+license: Apache-2.0
+tags:
+  - on_device
+  - long_context

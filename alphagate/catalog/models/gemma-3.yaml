@@ -1,0 +1,12 @@
+# 模型卡：Gemma-3
+slug: gemma-3
+name: Gemma-3
+model_id: google/gemma-3
+size: 27B
+description: "开放轻量"
+vendor: Google
+url: https://huggingface.co/google
+license: Gemma
+tags:
+  - small
+  - open_source
